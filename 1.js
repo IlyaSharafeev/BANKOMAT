@@ -2,7 +2,7 @@
 //Вариант с бесконечным количеством купюр 
 
 function getSum(exchange) {
-   const pricePolicy = [100, 20, 10, 5, 2, 1];
+   const pricePolicy = [200, 100, 20, 10, 5, 2, 1];
    const res = [];
 
    if (exchange > 0) {
